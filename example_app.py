@@ -19,7 +19,7 @@
 #      -H "Content-Type: application/json" \
 #      -d '{"input_text": "Help me fix this Python code: print(x)"}'`
 #
-#  Example answer: 
+#  Example json 
 # {
 #    "api_used": "Claude (Programming)",
 #    "adi_value": -0.75,
