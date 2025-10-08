@@ -164,7 +164,7 @@ class DumpindexAnalyzer:
         Measures the presence of background information. It identifies key phrases
         that signal the user is providing a use case, environment details, or goals.
         """
-        context_indicators = {
+        context_indicators = { # simple basics to understand indicators
             'background': r'\b(because|since|as|when|while)\b',
             'environment': r'\b(using|version|environment|platform|system)\b',
             'goal': r'\b(trying to|want to|need to|goal is|attempting to)\b'
