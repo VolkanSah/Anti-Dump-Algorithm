@@ -4,18 +4,18 @@
 > **Weeding out the nonsense and fostering clarity.**
 > *We measure "Dumpiness" by quantifying Noise vs. Effort, Context, and Details.* 😅
 
-##  Project's Core: ADI – The Anti-Dump Index
+###  Project's Core: ADI – The Anti-Dump Index
 
 This repository is a **Simulations-Tool (EDU)** and a **Lesson in API Economics**.
 
 The ADI Framework provides the **mathematische Lösung** für ein kritisches, teures Problem in der modernen KI-Entwicklung: **Ressourcenverschwendung und Service-Latenz**, verursacht durch vage, Low-Effort-Inputs. Unser Ziel ist es, den **Return on Investment (ROI)** von teuren Large Language Models (LLMs) zu maximieren, indem wir die Qualität jeder Anfrage quantifizieren und das Routing intelligent steuern.
 
 
-## The Core Problem: Why My Wallet Started Crying (The Developer's Pain)
+### The Core Problem: Why My Wallet Started Crying (The Developer's Pain)
 
 When you're building an app with expensive AI, you quickly learn a hard truth: users send you all kinds of "dumpy" inputs. Vague, low-effort requests that cost you money because your premium AI models still have to process them. It's the digital equivalent of someone shouting **"ASAP\!\!\!"** at the bouncer. For me, this "Dummheit" (stupidity) started hitting my wallet directly, and I had to build a solution.
 
-## The Solution: My Digital 🇹🇷-Bouncer from Germany 😄
+### The Solution: My Digital 🇹🇷-Bouncer from Germany 😄
 
 Inspired by the concept of a strict gatekeeper, I created a mathematical framework to act as a **Quality Gate** for API calls. This is the **Anti-Dump Index (ADI)**. Its job is simple: check the quality of every single request at the door. If it's "dump" – a waste of time and money – my bouncer has one simple rule:
 
@@ -27,7 +27,7 @@ This project isn't a full app; it's a **Showcase for Resource Orchestration Logi
 
 
 
-## Purpose: The Mathematics Behind the Judgement
+### Purpose: The Mathematics Behind the Judgement
 
 The **Anti-Dump Algorithm** calculates the **ADI (Anti-Dump Index)** to evaluate input quality by measuring the trade-off between **Noise** and **Actionable Detail**.
 
@@ -46,8 +46,8 @@ $$
 | **Bonus** | Positive elements (value accelerators) | Code blocks, precise terms |
 | **Penalty** | Negative elements (frustration drivers) | ALL CAPS, excessive "\!\!\!" |
 
-\<details\>
-\<summary\>\<strong\>Table of Contents (Lesson Plan)\</strong\>\</summary\>
+<details>
+<summary><strong\>Table of Contents (Lesson Plan)</strong\></summary\>
 
 1.  [Core Concepts](https://www.google.com/search?q=%231-core-concepts)
 2.  [Formula Explained](https://www.google.com/search?q=%232-formula-explained)
@@ -61,7 +61,7 @@ $$
 10. [FAQs](https://www.google.com/search?q=%2310-faqs)
 11. [License](https://www.google.com/search?q=%2311-license)
 
-\</details\>
+</details>
 
 -----
 
