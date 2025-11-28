@@ -5,6 +5,13 @@
 
 ![ADI Anti-Dump-Index](adi.png)
 
+#  Anti-Dump Index (ADI) Framework
+
+> **Simulations-Tool EDU**
+>
+> **The Project's Core:** This framework is the mathematical solution to a critical, expensive problem in modern AI development: **resource waste and service latency** caused by low-effort user inputs. The goal is to maximize the Return on Investment (ROI) from expensive Large Language Models (LLMs) by routing high-quality requests to high-cost models and minimizing the processing of "dump" inputs.
+>
+
 
 ## The Core Problem: Why My Wallet Started Crying
 
