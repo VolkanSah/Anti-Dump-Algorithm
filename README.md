@@ -10,7 +10,7 @@ This repository is a **Simulations-Tool (EDU)** and a **Lesson in API Economics*
 
 The ADI idea provides the **mathematical solution** to a critical, costly problem in modern AI development: **resource waste and service latency** caused by vague, low-effort inputs. Our goal is to maximize the **return on investment (ROI)** of expensive Large Language Models (LLMs) by quantifying the quality of each request and intelligently controlling routing.
 
-
+--- 
 ### The Core Problem: Why My Wallet Started Crying (The Developer's Pain)
 
 When you're building an app with expensive AI, you quickly learn a hard truth: users send you all kinds of "dumpy" inputs. Vague, low-effort requests that cost you money because your premium AI models still have to process them. It's the digital equivalent of someone shouting **"ASAP\!\!\!"** at the bouncer. For me, this "Dummheit" (stupidity) started hitting my wallet directly, and I had to build a solution.
@@ -25,7 +25,7 @@ This phrase (roughly: "Hey, you're not getting in here\!") is a nostalgic joke a
 
 This project isn't a full app; it's a **Showcase for Resource Orchestration Logic**. It's the technical manifestation of a developer's frustration, turned into a powerful, cost-saving solution.
 
-
+---
 
 ### Purpose: The Mathematics Behind the Judgement
 
