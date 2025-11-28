@@ -8,7 +8,7 @@
 
 This repository is a **Simulations-Tool (EDU)** and a **Lesson in API Economics**.
 
-The ADI Framework provides the **mathematische Lösung** für ein kritisches, teures Problem in der modernen KI-Entwicklung: **Ressourcenverschwendung und Service-Latenz**, verursacht durch vage, Low-Effort-Inputs. Unser Ziel ist es, den **Return on Investment (ROI)** von teuren Large Language Models (LLMs) zu maximieren, indem wir die Qualität jeder Anfrage quantifizieren und das Routing intelligent steuern.
+The ADI idea provides the **mathematical solution** to a critical, costly problem in modern AI development: **resource waste and service latency** caused by vague, low-effort inputs. Our goal is to maximize the **return on investment (ROI)** of expensive Large Language Models (LLMs) by quantifying the quality of each request and intelligently controlling routing.
 
 
 ### The Core Problem: Why My Wallet Started Crying (The Developer's Pain)
