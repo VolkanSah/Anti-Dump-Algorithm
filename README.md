@@ -111,7 +111,6 @@ weights = {
 ---
 
 ## 3. Quality Zones
-![Quality Zones Diagram](zones.png)
 
 ### Interpretation Guide
 | Zone | ADI Range | Action | Characteristics |
