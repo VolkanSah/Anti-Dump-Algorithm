@@ -47,7 +47,7 @@ $$
 | **Penalty** | Negative elements (frustration drivers) | ALL CAPS, excessive "\!\!\!" |
 
 <details>
-<summary><strong\>Table of Contents (Lesson Plan)</strong\></summary\>
+<summary><strong>Table of Contents (Lesson Plan)</strong></summary>
 
 1.  [Core Concepts](https://www.google.com/search?q=%231-core-concepts)
 2.  [Formula Explained](https://www.google.com/search?q=%232-formula-explained)
