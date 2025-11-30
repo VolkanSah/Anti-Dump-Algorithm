@@ -13,7 +13,6 @@
 # =====================================================================================================
 # QUICK USAGE EXAMPLE
 # This section demonstrates how to initialize the analyzer and run it on sample texts.
-# Uncomment the code below to see the ADI in action.
 # =====================================================================================================
 #
 # analyzer = DumpindexAnalyzer()
@@ -84,7 +83,8 @@ class DumpindexAnalyzer:
         self.enable_logging = enable_logging
         self.log_file = Path('adi_logs.jsonl')
         
-        # Pattern definitions for metric extraction
+        # Pattern definitions for metric extraction 
+        # !!!! Only demo examples! In production you need your own or get data from  vectors!!!!
         self.noise_patterns = {
             'urgency': r'\b(urgent|asap|emergency|!!+|\?\?+)\b',
             'informal': r'\b(pls|plz|thx|omg|wtf)\b',
@@ -465,30 +465,32 @@ class DumpindexAnalyzer:
 # =====================================================================================================
 # USAGE EXAMPLE
 # =====================================================================================================
-if __name__ == "__main__":
-    analyzer = DumpindexAnalyzer(enable_logging=False)
+# if __name__ == "__main__":
+#    analyzer = DumpindexAnalyzer(enable_logging=False)
+#    
+#    test_inputs = [
+#        "Pls fix my code. Urgent!!!",
+#        """I'm trying to implement a login function in Python. 
+#        When calling auth.login(), I get a TypeError. 
+#        Here's my code:
+#        ```python
+#        def login(username, password):
+# #           return auth.login(username)
+#        ```
+#        I'm using Python 3.8 and the auth library version 2.1.""",
+#        "error error error bug bug crash crash function method class object variable",  # Keyword stuffing test
+#    ]
     
-    test_inputs = [
-        "Pls fix my code. Urgent!!!",
-        """I'm trying to implement a login function in Python. 
-        When calling auth.login(), I get a TypeError. 
-        Here's my code:
-        ```python
-        def login(username, password):
-            return auth.login(username)
-        ```
-        I'm using Python 3.8 and the auth library version 2.1.""",
-        "error error error bug bug crash crash function method class object variable",  # Keyword stuffing test
-    ]
-    
-    for input_text in test_inputs:
-        result = analyzer.analyze_input(input_text)
-        print("-" * 70)
-        print(f"Input: {input_text[:60]}...")
-        print(f"ADI: {result['adi']}")
-        print(f"Decision: {result['decision']}")
-        print("Recommendations:")
-        for rec in result['recommendations']:
-            print(f"  - {rec}")
-        print(f"Metrics: {result['metrics']}")
-    print("-" * 70)
+#    for input_text in test_inputs:
+#        result = analyzer.analyze_input(input_text)
+#        print("-" * 70)
+#        print(f"Input: {input_text[:60]}...")
+#        print(f"ADI: {result['adi']}")
+#        print(f"Decision: {result['decision']}")
+#        print("Recommendations:")
+#        for rec in result['recommendations']:
+#            print(f"  - {rec}")
+#        print(f"Metrics: {result['metrics']}")
+#    print("-" * 70)
+
+# Have fun :) Volkan Sah
