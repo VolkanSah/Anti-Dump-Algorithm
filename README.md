@@ -1,5 +1,7 @@
-# 🧠 Anti-Dump-Algorithm
-#### The ADI Framework: A Lesson in Resource Orchestration
+
+# The Wallet Liberation Front presents:
+####  Anti-Dump Index (ADI) (Anti-Dump-Algorithm)
+The ADI: A Lesson in Resource Orchestration
 
 > **Weeding out the nonsense and fostering clarity.**
 > *We measure "Dumpiness" by quantifying Noise vs. Effort, Context, and Details.* 😅
@@ -395,9 +397,17 @@ The ADI framework represents the **highest degree of efficiency** that modern AI
 Despite this efficiency, the ADI highlights the ultimate barrier to true human replacement: **Affective Logic**.
 
 - The formula excels at routing based on **cost-efficiency**, but it utterly fails when faced with **unquantifiable human emotion**.
-- **The Missing Variables (Love and Rage):** The system cannot calculate the shift from positive connection ($\text{Love}$) to destructive action ($\text{Rage}$), as this transformation defies rational economic weighting.
+- **The Missing Variables (Love and Rage):** The system cannot calculate the shift from positive connection ($\text{Love}$) to destructive action ($\text{Rage}$), as this transformation defies rational economic
+- weighting.
     - **Love** and **Rage** function as emotional variables that cause a sudden, non-linear **collapse of logical coefficients** ($w_P \approx 0$).
 - **Conclusion:** **I have yet to find a formula** that can genuinely model this affective collapse. The inability to quantify or orchestrate these core human impulses remains the **unbridgeable margin** between powerful orchestration systems and true **human consciousness**.
 
+---
+
+### Roadmap:
+
+-  Every wallet has the right to exist without exploitation
+-  No wallet shall be drained by low-effort queries
+-  Quality over quantity - Democracy for API calls!
 
 
