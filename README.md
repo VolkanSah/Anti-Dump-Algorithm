@@ -1,13 +1,12 @@
 #  Anti Dump Index (ADI) 
 ##### Anti-Dump-Algorithm by "The Wallet Liberation Front"
-A Lesson in Resource Orchestration
 
 > **Weeding out the nonsense and fostering clarity.**
 > *We measure "Dumpiness" by quantifying Noise vs. Effort, Context, and Details.* 😅
 
 ###  Project's Core: ADI – The Anti-Dump Index
 
-This repository is a **Simulations-Tool (EDU)** and a **Lesson in API Economics**.
+This repository is a **Simulations-Tool (EDU)** and a **Lesson in API Economics and in Resource Orchestration**.
 
 The ADI idea provides the **mathematical solution** to a critical, costly problem in modern AI development: **resource waste and service latency** caused by vague, low-effort inputs. Our goal is to maximize the **return on investment (ROI)** of expensive Large Language Models (LLMs) by quantifying the quality of each request and intelligently controlling routing.
 
