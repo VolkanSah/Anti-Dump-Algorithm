@@ -1,6 +1,5 @@
-
-# The Wallet Liberation Front presents:
-####  Anti-Dump Index (ADI) (Anti-Dump-Algorithm)
+#  Anti Dump Index (ADI) 
+##### Anti-Dump-Algorithm by "The Wallet Liberation Front"
 The ADI: A Lesson in Resource Orchestration
 
 > **Weeding out the nonsense and fostering clarity.**
