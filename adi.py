@@ -1,5 +1,5 @@
 # =====================================================================================================
-# Anti-Dump Algorithm (ADI) - FIXED VERSION 30.11.2025
+# Anti-Dump Algorithm (ADI) - FIXED VERSION
 # A mathematical framework for evaluating and filtering low-quality, unproductive text inputs.
 #
 # Copyright 2008 - 2025 S. Volkan Kücükbudak
@@ -45,8 +45,6 @@
 # =====================================================================================================
 # END OF EXAMPLE
 # =====================================================================================================
-
-
 
 from dataclasses import dataclass
 from typing import List, Dict, Tuple, Optional
