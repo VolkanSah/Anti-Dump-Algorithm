@@ -1,6 +1,6 @@
 #  Anti Dump Index (ADI) 
 ##### Anti-Dump-Algorithm by "The Wallet Liberation Front"
-The ADI: A Lesson in Resource Orchestration
+A Lesson in Resource Orchestration
 
 > **Weeding out the nonsense and fostering clarity.**
 > *We measure "Dumpiness" by quantifying Noise vs. Effort, Context, and Details.* 😅
