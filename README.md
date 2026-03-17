@@ -408,4 +408,7 @@ Despite this efficiency, the ADI highlights the ultimate barrier to true human r
 -  No wallet shall be drained by low-effort queries
 -  Quality over quantity - Democracy for API calls!
 
+##### Documentation: CC BY-SA 4.0.
+##### Code: AGPL v3
+ 
 
